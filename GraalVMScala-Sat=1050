@@ -1,0 +1,11 @@
+Session for GraalVM at Scala Matsuri
+Time Preferred: Morning Session: 1050 am JST
+Presenter:  Amitpal S. Dhillon, Sr. Principal Product Manager @ Oracle Labs
+Title: 
+Accelerating Scala Workloads on Oracle GraalVM Enterprise
+Abstract: 
+Learn firsthand Scala’s unique approach to functional programming within a broad ecosystem of solutions compatible with Java applications.
+Explore
+- How to use GraalVM Enterprise to achieve the best performance for your Scala applications. 
+- How GraalVM Enterprise native image technology can transform Scala microservices into efficient cloud-native deployments.
+- How to speed up the development process of Scala applications with GraalVM Enterprise.
